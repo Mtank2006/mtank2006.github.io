@@ -74,3 +74,4 @@ function sendMsg() {
   ok.style.display = 'block';
   setTimeout(() => ok.style.display = 'none', 5000);
 }
+
